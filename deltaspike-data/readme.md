@@ -13,7 +13,7 @@ The application is built with [jboss wildfly-swarm](http://wildfly.org/swarm/). 
 `mvn wildfly-swarm:run`
 and wildfly is getting started listening on port 8080.
 
-###functions
+###Functions
 you can use the following rest calls to filter the results: 
 
 <table>
